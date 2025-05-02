@@ -104,8 +104,6 @@ background-color: #232f3e;
 
 </body>
 </html>
-```
 
----
 
 # Olawale-plug
